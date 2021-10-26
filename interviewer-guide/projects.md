@@ -112,3 +112,19 @@ establecidas.
 
 - Ganar experiencia con algun framework o libreria de desarrollo web
   en JS: React o Angular o Vue
+
+## [Burguer Queen API](https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api)
+
+ La meta de este proyecto es crear una API que servirá de backend para la
+ interfaz de una hamburguesería, teniendo que mantener una base de datos de usuarios,
+ productos y órdenes. El proyecto debe ser desarrollado respaldándose en un set de
+ pruebas E2E ya definidos y se debrán utilizar tecnologías como Express, MongoDB,
+ MySQL, PostgreSQL, Docker, Docker Compose, entre otros
+
+ ### Objetivos de aprendizaje
+
+ - NodeJS
+ - ExpresJS
+ - Docker
+ - HTTP
+ - Bases de Datos
